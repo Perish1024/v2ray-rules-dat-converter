@@ -27,9 +27,16 @@ jobs:
       - name: convert geosite
         run: |
           cd convert
-          wget https://github.com/Perish1024/v2ray-rules-dat/releases/download/202603071027/geosite.dat
+          wget https://github.com/Perish1024/v2ray-rules-dat/releases/latest/download/geosite.dat
           mkdir -pv ../v2ray-rules-dat-converter/meta-rule/geo/geosite
           go run ./ geosite -f ./geosite.dat -o ../v2ray-rules-dat-converter/meta-rule/geo/geosite
+
+      - name: convert geoip
+        run: |
+          cd convert
+          wget https://github.com/Perish1024/v2ray-rules-dat/releases/latest/download/geoip.dat
+          mkdir -pv ../v2ray-rules-dat-converter/meta-rule/geo/geoip
+          go run ./ geoip -f ./geoip.dat -o ../v2ray-rules-dat-converter/meta-rule/geo/geoip
 
       - name: git push
         run: |
