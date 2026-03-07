@@ -44,8 +44,8 @@ jobs:
           git checkout geodata
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          if [[ $(git diff --stat) != '' ]]; then
-          	git add .
+          git add .
+          if [[ $(git diff HEAD --stat) != '' ]]; then
             git commit -m "$(TZ=Asia/Shanghai date +%Y-%m-%dT%H:%M:%S%z) update"
             git push origin geodata
           fi
