@@ -1,1 +1,43 @@
 # converter
+name: converter rules dat files
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * *" # 6:30 AM UTC+8
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: v2ray-rules-dat-converter
+
+      - name: create branch
+        run: |
+          cd v2ray-rules-dat-converter
+          git checkout --orphan geodata
+          git reset --hard
+
+      - name: Checkout MetaCubeX/meta-rules-converter
+        uses: actions/checkout@v4
+        with:
+          repository: MetaCubeX/meta-rules-converter
+          path: convert
+
+      - name: convert geosite
+        run: |
+          cd convert
+          wget https://github.com/Perish1024/v2ray-rules-dat/releases/download/202603071027/geosite.dat
+          mkdir -pv ../v2ray-rules-dat-converter/meta-rule/geo/geosite
+          go run ./ geosite -f ./geosite.dat -o ../v2ray-rules-dat-converter/meta-rule/geo/geosite
+
+      - name: git push
+        run: |
+          cd v2ray-rules-dat-converter
+          git commit -m "init"
+          git push
