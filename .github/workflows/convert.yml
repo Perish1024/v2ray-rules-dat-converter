@@ -39,5 +39,7 @@ jobs:
       - name: git push
         run: |
           cd v2ray-rules-dat-converter
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git commit -m "init"
           git push
