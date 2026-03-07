@@ -43,4 +43,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "init"
-          git push
+          git push origin geodata
