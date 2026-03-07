@@ -34,9 +34,9 @@ jobs:
       - name: convert geoip
         run: |
           cd convert
-          wget https://github.com/Perish1024/v2ray-rules-dat/releases/latest/download/geoip.dat
+          wget https://github.com/Perish1024/geoip/releases/latest/download/geoip-lite.dat
           mkdir -pv ../v2ray-rules-dat-converter/meta-rule/geo/geoip
-          go run ./ geoip -f ./geoip.dat -o ../v2ray-rules-dat-converter/meta-rule/geo/geoip
+          go run ./ geoip -f ./geoip-lite.dat -o ../v2ray-rules-dat-converter/meta-rule/geo/geoip
 
       - name: git push
         run: |
