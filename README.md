@@ -5,4 +5,4 @@ meta-rules-converter: https://github.com/MetaCubeX/meta-rules-converter
 
 v2ray-rules-dat: https://github.com/Perish1024/v2ray-rules-dat
 
-update time: 6:30 AM every day
+update time: Runs at 30 minutes past the hour
