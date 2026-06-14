@@ -22,10 +22,10 @@ jobs:
           path: v2ray-rules-dat-converter
           ref: geodata
 
-      - name: Checkout MetaCubeX/meta-rules-converter
+      - name: Checkout meta-rules-converter
         uses: actions/checkout@v6
         with:
-          repository: MetaCubeX/meta-rules-converter
+          repository: Perish1024/meta-rules-converter
           path: convert
 
       - name: convert geosite
