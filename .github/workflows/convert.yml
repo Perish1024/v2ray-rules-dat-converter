@@ -4,7 +4,7 @@ name: converter rules dat files
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 * * * *" # Runs at 30 minutes past the hour
+    - cron: "*/15 * * * *"
   push:
     branches:
       - main
