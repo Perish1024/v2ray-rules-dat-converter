@@ -17,13 +17,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           path: v2ray-rules-dat-converter
           ref: geodata
 
       - name: Checkout meta-rules-converter
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Perish1024/meta-rules-converter
           path: convert
