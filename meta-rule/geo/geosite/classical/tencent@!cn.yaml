@@ -43,7 +43,6 @@ payload:
     - DOMAIN-SUFFIX,eu-moscow.tencentcos.com.cn
     - DOMAIN-SUFFIX,ger.file.myqcloud.com
     - DOMAIN-SUFFIX,hk.file.myqcloud.com
-    - DOMAIN-SUFFIX,htrace.wetvinfo.com
     - DOMAIN-SUFFIX,intltencentcos.com
     - DOMAIN-SUFFIX,na-ashburn.myqcloud.com
     - DOMAIN-SUFFIX,na-ashburn.tencentcos.cn
