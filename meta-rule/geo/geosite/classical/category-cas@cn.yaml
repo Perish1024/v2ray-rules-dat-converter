@@ -17,7 +17,6 @@ payload:
     - DOMAIN,valid.apple.com
     - DOMAIN,valid.origin-apple.com.akadns.net
     - DOMAIN,www.entrust.cn
-    - DOMAIN,www.microsoft.com
     - DOMAIN-SUFFIX,alphassl.com
     - DOMAIN-SUFFIX,dcocsp.cn
     - DOMAIN-SUFFIX,digicert.cn
