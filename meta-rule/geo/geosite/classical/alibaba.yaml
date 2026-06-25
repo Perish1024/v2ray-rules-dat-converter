@@ -1,4 +1,8 @@
 payload:
+    - DOMAIN,account-cn.alibabacloud.com
+    - DOMAIN,api.alibabacloud.com
+    - DOMAIN,cn.alibabacloud.com
+    - DOMAIN,status.alibabacloud.com
     - DOMAIN-SUFFIX,11222.cn
     - DOMAIN-SUFFIX,1688.com
     - DOMAIN-SUFFIX,25pp.com
@@ -141,6 +145,7 @@ payload:
     - DOMAIN-SUFFIX,antfortune.com
     - DOMAIN-SUFFIX,antgroup-inc.cn
     - DOMAIN-SUFFIX,antgroup.com
+    - DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
     - DOMAIN-SUFFIX,ar.umeng.com
     - DOMAIN-SUFFIX,asczwa.com
     - DOMAIN-SUFFIX,asczxcefsv.com
@@ -165,6 +170,8 @@ payload:
     - DOMAIN-SUFFIX,cdngslb.com
     - DOMAIN-SUFFIX,cheng.xin
     - DOMAIN-SUFFIX,cloudeagle.cn
+    - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+    - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
     - DOMAIN-SUFFIX,cnlogs.umeng.com
     - DOMAIN-SUFFIX,cnlogs.umengcloud.com
     - DOMAIN-SUFFIX,cnzz.com
