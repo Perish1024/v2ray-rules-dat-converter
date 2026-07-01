@@ -46,6 +46,7 @@ payload:
     - +.123624.com
     - +.123641.com
     - +.12365auto.com
+    - +.12377.cn
     - +.123842.com
     - +.123860.com
     - +.123912.com
@@ -293,6 +294,7 @@ payload:
     - +.61.com
     - +.6655.com
     - +.66law.cn
+    - +.66rpg.com
     - +.66wz.com
     - +.68h5.com
     - +.6rooms.com
@@ -303,6 +305,7 @@ payload:
     - +.7230.com
     - +.72byte.com
     - +.72whys.com
+    - +.777ppt.com
     - +.7down.com
     - +.7k7k.com
     - +.7moor-fs1.com
@@ -318,6 +321,7 @@ payload:
     - +.800bestapi.com
     - +.800bestapp.cn
     - +.800bestapp.com
+    - +.81.cn
     - +.818ps.com
     - +.8264.com
     - +.84399.com
@@ -388,6 +392,7 @@ payload:
     - +.acwifi.net
     - +.acwing.com
     - +.admin5.com
+    - +.admincdn.com
     - +.adxvip.com
     - +.afdian.com
     - +.afdian.net
@@ -636,6 +641,7 @@ payload:
     - +.bdydns.net
     - +.bearychat.com
     - +.beckyroom.com
+    - +.beie.org
     - +.beifangsl.cn
     - +.beihaidc.com
     - +.beijing-lipin.com
@@ -712,6 +718,7 @@ payload:
     - +.bmac.com.cn
     - +.bobbns.com
     - +.bobo.com
+    - +.boce.com
     - +.bochaai.com
     - +.boe.com
     - +.boe.com.cn
@@ -838,6 +845,7 @@ payload:
     - +.cgames.com
     - +.cgbchina.com.cn
     - +.cgws.com
+    - +.cgyouxi.com
     - +.ch.com
     - +.chachaba.com
     - +.chaindd.com
@@ -1007,6 +1015,7 @@ payload:
     - +.cnb.cool
     - +.cnbksy.com
     - +.cnblogs.com
+    - +.cnblogs.vip
     - +.cnepub.com
     - +.cnfol.com
     - +.cnfolimg.com
@@ -1094,6 +1103,8 @@ payload:
     - +.cqvip.com
     - +.cr-cts.com
     - +.cr173.com
+    - +.cravatar.cn
+    - +.cravatar.com
     - +.crggcn.com
     - +.crscm.com
     - +.crsky.com
@@ -1284,6 +1295,8 @@ payload:
     - +.dicos.com.cn
     - +.dict.cn
     - +.dida365.com
+    - +.didachuxing.com
+    - +.didapinche.com
     - +.diiing.cn
     - +.dingdachuxing.com
     - +.dingdatech.com
@@ -1508,6 +1521,7 @@ payload:
     - +.fa-part.com
     - +.faasapp.cn
     - +.faasdev.cn
+    - +.faceid.com
     - +.fadfunds.com
     - +.faloo.com
     - +.famulei.com
@@ -1844,6 +1858,7 @@ payload:
     - +.guigu.org
     - +.guodu.com
     - +.guoguo-app.com
+    - +.guojibk.com
     - +.guokr.com
     - +.guokr.net
     - +.guoocang.com
@@ -1873,6 +1888,7 @@ payload:
     - +.gzyowin.com
     - +.h5uc.com
     - +.hack520.com
+    - +.hackernews.cc
     - +.hackhome.com
     - +.hackinn.com
     - +.hacl.cn
@@ -2500,6 +2516,7 @@ payload:
     - +.kejet.net
     - +.kekeniu.com
     - +.kemen.cn
+    - +.keniu.com
     - +.kepuchina.cn
     - +.keruyun.com
     - +.kesong.co
@@ -2523,6 +2540,7 @@ payload:
     - +.kiwa-tech.com
     - +.kiyuu.club
     - +.kjcdn.com
+    - +.kjrb.com.cn
     - +.kjwugx.com
     - +.kk1.vip
     - +.kkmh.com
@@ -3048,6 +3066,7 @@ payload:
     - +.nadianshi.com
     - +.nagcloudcs.com
     - +.naixuecha.com
+    - +.nalrer.cn
     - +.namiso.com
     - +.nanhaicorp.com
     - +.nanyuenews.com
@@ -3170,6 +3189,7 @@ payload:
     - +.onlylady.com
     - +.oojsq.com
     - +.opdown.com
+    - +.open-douyin.com
     - +.openjudge.cn
     - +.openkylin.top
     - +.openlearning.com
@@ -3448,6 +3468,7 @@ payload:
     - +.route53.cn
     - +.routewize.com
     - +.rqnoj.cn
+    - +.rrmj.plus
     - +.rt-mart.com.cn
     - +.rtbasia.com
     - +.ruan8.com
@@ -3456,6 +3477,7 @@ payload:
     - +.rubyconfchina.org
     - +.ruguoapp.com
     - +.ruiwen.com
+    - +.runningcheese.com
     - +.runoob.com
     - +.ruseer.com
     - +.rwkv.cn
@@ -3689,6 +3711,7 @@ payload:
     - +.staticfile.org
     - +.statickksmg.com
     - +.stcn.com
+    - +.stdaily.com
     - +.steam302.xyz
     - +.steampp.net
     - +.sto-express.cn
@@ -3891,6 +3914,7 @@ payload:
     - +.todesk.cn
     - +.todesk.com
     - +.tokyotrial.cn
+    - +.tol.vip
     - +.tom.com
     - +.tongdun.net
     - +.tongfangpc.com
@@ -4081,6 +4105,7 @@ payload:
     - +.voc.com.cn
     - +.voicecloud.cn
     - +.vpgame.com
+    - +.vpsvs.com
     - +.vrzwk.cn
     - +.vrzwk.com
     - +.vrzwk.net
@@ -4125,6 +4150,7 @@ payload:
     - +.webankcdn.net
     - +.webgame163.com
     - +.webmasterhome.cn
+    - +.webportal.top
     - +.webterren.com
     - +.wegame.com
     - +.wegame.com.cn
@@ -4145,6 +4171,7 @@ payload:
     - +.wenkeju.com
     - +.wenkub.com
     - +.wenmingban.com
+    - +.wenpai.org
     - +.wenshushu.cn
     - +.wenshushu.com
     - +.wenwo.com
@@ -4169,6 +4196,7 @@ payload:
     - +.win8.net
     - +.win8china.com
     - +.wind.com.cn
+    - +.windfonts.com
     - +.windows10zj.com
     - +.windows7en.com
     - +.windowszj.com
@@ -4202,6 +4230,7 @@ payload:
     - +.woodo.cn
     - +.wooyun.org
     - +.woozooo.com
+    - +.workercn.cn
     - +.worktile.com
     - +.worldofship.cn
     - +.worldoftank.cn
@@ -4214,6 +4243,7 @@ payload:
     - +.woxihuan.com
     - +.woyaogexing.com
     - +.woyoo.com
+    - +.wpcy.com
     - +.wps.cn
     - +.wps.com
     - +.wpscdn.cn
@@ -4449,6 +4479,7 @@ payload:
     - +.yiyouliao.com
     - +.yizhibo.com
     - +.yjbys.com
+    - +.yjwujian.cn
     - +.yksdks.com
     - +.ykzq.com
     - +.yl-scm.com
@@ -4558,6 +4589,7 @@ payload:
     - +.yunpan.aliyun.com
     - +.yunpan.cn
     - +.yunpan.com
+    - +.yunpian.com
     - +.yunqishi.net
     - +.yunshipei.com
     - +.yunxiao.com
@@ -4579,6 +4611,7 @@ payload:
     - +.yy.com
     - +.yyds.co
     - +.yyshub.top
+    - +.yysls.cn
     - +.yystatic.com
     - +.yystv.cn
     - +.yytcdn.com
