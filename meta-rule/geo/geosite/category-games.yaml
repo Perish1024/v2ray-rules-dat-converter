@@ -57,6 +57,8 @@ payload:
     - +.ac-pocketcamp.com
     - +.acesofthunder.net
     - +.activematter.game
+    - +.aki-game.com
+    - +.aki-game2.com
     - +.aligames.com
     - +.amiibo.com
     - +.anthemgame.com
@@ -372,6 +374,11 @@ payload:
     - +.konamisportsclub.jp
     - +.konamistyle.jp
     - +.kraftonde.com
+    - +.kurobbs.com
+    - +.kurogame.com
+    - +.kurogame.xyz
+    - +.kurogames-ads.com
+    - +.kurogames.com
     - +.kyurem.com
     - +.labycore.cn
     - +.langrenclub.com
@@ -667,6 +674,7 @@ payload:
     - +.riotpoints.com
     - +.rmwxgame.com
     - +.ro-blox.com
+    - +.ro.com
     - +.roadblocks.com
     - +.roblocks.com
     - +.roblox-api.arkoselabs.com
@@ -813,6 +821,12 @@ payload:
     - +.swtor.net
     - +.syxlgame.com
     - +.take2games.com
+    - +.tapapks.com
+    - +.tapimg.com
+    - +.tapimg.net
+    - +.taptap.cn
+    - +.taptap.com
+    - +.taptapdada.com
     - +.tarkov.com
     - +.tcfmglobal.com
     - +.teamneedforspeed.com
@@ -913,6 +927,7 @@ payload:
     - +.wotblitz.com
     - +.wowsblitz.com
     - +.wtmobile.com
+    - +.wutheringwaves.cn
     - +.xbox
     - +.xbox.co
     - +.xbox.com
@@ -934,9 +949,13 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
+    - +.xd.cn
+    - +.xd.com
+    - +.xdcdn.net
     - +.xdsummit.com
     - +.xenoblade.com
     - +.xhlsgs.com
+    - +.xindong.com
     - +.xinwuji.com
     - +.xishanju.com
     - +.xn--mts47c3w9b1qr.cn

@@ -1,3 +1,6 @@
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
 DOMAIN,izattime.qcomgeo2.com
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp.tencent.com
@@ -13,6 +16,7 @@ DOMAIN,ntp5.aliyun.com
 DOMAIN,ntp5.tencent.com
 DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp7.aliyun.com
+DOMAIN,status.alibabacloud.com
 DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net

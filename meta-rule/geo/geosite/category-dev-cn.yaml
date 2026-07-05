@@ -1,4 +1,7 @@
 payload:
+    - +.51changxie.com
+    - +.51jianxie.cn
+    - +.91changxie.com
     - +.aardio.com
     - +.ads.unitychina.cn
     - +.aixcoder.com
@@ -15,6 +18,8 @@ payload:
     - +.bisheng.cn
     - +.bishengcompiler.cn
     - +.blogjava.net
+    - +.changxie.com
+    - +.chinauos.com
     - +.cnb.cool
     - +.cnblogs.com
     - +.cnblogs.vip
@@ -31,6 +36,9 @@ payload:
     - +.csdnimg.cn
     - +.csto.com
     - +.datasea.cn
+    - +.deepin.cn
+    - +.deepin.com
+    - +.deepin.org.cn
     - +.dengguobi.com
     - +.devui.design
     - +.ejoy.com
@@ -67,6 +75,8 @@ payload:
     - +.juejin.im
     - +.kaifayun.com
     - +.kaihong.com
+    - +.linglong.space
+    - +.linyaps.org.cn
     - +.mindspore.cn
     - +.mysxl.cn
     - +.nnthink.com
@@ -91,6 +101,7 @@ payload:
     - +.saasops.tech
     - +.segmentfault.com
     - +.sifou.com
+    - +.sndu.cn
     - +.splash-ads.cdn.unity.cn
     - +.splash-ads.unitychina.cn
     - +.sxl.cn
@@ -111,6 +122,8 @@ payload:
     - +.tracup.com
     - +.u3d.cn
     - +.ubuntukylin.com
+    - +.uniontech.cn
+    - +.uniontech.com
     - +.unity.cn
     - +.unity3dcloud.cn
     - +.unityads.unity.cn

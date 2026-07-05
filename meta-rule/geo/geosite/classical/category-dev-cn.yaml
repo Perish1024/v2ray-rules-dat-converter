@@ -8,6 +8,9 @@ payload:
     - DOMAIN,p7-juejin.byteimg.com
     - DOMAIN,p8-juejin.byteimg.com
     - DOMAIN,p9-juejin.byteimg.com
+    - DOMAIN-SUFFIX,51changxie.com
+    - DOMAIN-SUFFIX,51jianxie.cn
+    - DOMAIN-SUFFIX,91changxie.com
     - DOMAIN-SUFFIX,aardio.com
     - DOMAIN-SUFFIX,ads.unitychina.cn
     - DOMAIN-SUFFIX,aixcoder.com
@@ -24,6 +27,8 @@ payload:
     - DOMAIN-SUFFIX,bisheng.cn
     - DOMAIN-SUFFIX,bishengcompiler.cn
     - DOMAIN-SUFFIX,blogjava.net
+    - DOMAIN-SUFFIX,changxie.com
+    - DOMAIN-SUFFIX,chinauos.com
     - DOMAIN-SUFFIX,cnb.cool
     - DOMAIN-SUFFIX,cnblogs.com
     - DOMAIN-SUFFIX,cnblogs.vip
@@ -40,6 +45,9 @@ payload:
     - DOMAIN-SUFFIX,csdnimg.cn
     - DOMAIN-SUFFIX,csto.com
     - DOMAIN-SUFFIX,datasea.cn
+    - DOMAIN-SUFFIX,deepin.cn
+    - DOMAIN-SUFFIX,deepin.com
+    - DOMAIN-SUFFIX,deepin.org.cn
     - DOMAIN-SUFFIX,dengguobi.com
     - DOMAIN-SUFFIX,devui.design
     - DOMAIN-SUFFIX,ejoy.com
@@ -76,6 +84,8 @@ payload:
     - DOMAIN-SUFFIX,juejin.im
     - DOMAIN-SUFFIX,kaifayun.com
     - DOMAIN-SUFFIX,kaihong.com
+    - DOMAIN-SUFFIX,linglong.space
+    - DOMAIN-SUFFIX,linyaps.org.cn
     - DOMAIN-SUFFIX,mindspore.cn
     - DOMAIN-SUFFIX,mysxl.cn
     - DOMAIN-SUFFIX,nnthink.com
@@ -100,6 +110,7 @@ payload:
     - DOMAIN-SUFFIX,saasops.tech
     - DOMAIN-SUFFIX,segmentfault.com
     - DOMAIN-SUFFIX,sifou.com
+    - DOMAIN-SUFFIX,sndu.cn
     - DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
     - DOMAIN-SUFFIX,splash-ads.unitychina.cn
     - DOMAIN-SUFFIX,sxl.cn
@@ -120,6 +131,8 @@ payload:
     - DOMAIN-SUFFIX,tracup.com
     - DOMAIN-SUFFIX,u3d.cn
     - DOMAIN-SUFFIX,ubuntukylin.com
+    - DOMAIN-SUFFIX,uniontech.cn
+    - DOMAIN-SUFFIX,uniontech.com
     - DOMAIN-SUFFIX,unity.cn
     - DOMAIN-SUFFIX,unity3dcloud.cn
     - DOMAIN-SUFFIX,unityads.unity.cn
