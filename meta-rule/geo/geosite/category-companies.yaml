@@ -1205,6 +1205,7 @@ payload:
     - +.azuredns-prd.org
     - +.azureedge-test.net
     - +.azureedge.net
+    - +.azureedge.us
     - +.azurefd.net
     - +.azurehdinsight.cn
     - +.azureiotcentral.com
@@ -2096,6 +2097,7 @@ payload:
     - +.coova.com
     - +.coova.net
     - +.coova.org
+    - +.copilot-stg.com
     - +.copilot.com
     - +.coreduo.com
     - +.coreextreme.com
@@ -6398,6 +6400,7 @@ payload:
     - +.st.com
     - +.stadia.dev
     - +.staffhub.ms
+    - +.starlink.com
     - +.starship-ent.com
     - +.start.com
     - +.static-cisco.com
