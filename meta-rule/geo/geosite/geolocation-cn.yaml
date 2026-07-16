@@ -3109,6 +3109,7 @@ payload:
     - +.hqpcb.com
     - +.hr-welink.com
     - +.hrsec.com.cn
+    - +.hrsecn.com
     - +.hsbc.com.cn
     - +.hsbcinsurance.com.cn
     - +.hsbcqh.com.cn
@@ -7255,6 +7256,7 @@ payload:
     - account-cn.alibabacloud.com
     - ai.zhaomi.cn
     - api.alibabacloud.com
+    - api.blipsandchitz.me
     - cn.alibabacloud.com
     - ctdsb.clouddiffuse.xyz
     - cueme-api.quark.cn
