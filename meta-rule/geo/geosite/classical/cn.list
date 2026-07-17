@@ -30,6 +30,7 @@ DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,api.alibabacloud.com
+DOMAIN,api.blipsandchitz.me
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
@@ -47625,6 +47626,7 @@ DOMAIN-SUFFIX,hrpackage.com
 DOMAIN-SUFFIX,hrs100.com
 DOMAIN-SUFFIX,hrsalon.org
 DOMAIN-SUFFIX,hrsay.com
+DOMAIN-SUFFIX,hrsecn.com
 DOMAIN-SUFFIX,hrsee.com
 DOMAIN-SUFFIX,hrsel.com
 DOMAIN-SUFFIX,hrsoft-china.com
