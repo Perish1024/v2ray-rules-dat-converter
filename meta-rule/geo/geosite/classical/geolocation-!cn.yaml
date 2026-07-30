@@ -23946,6 +23946,7 @@ payload:
     - DOMAIN-SUFFIX,v-has.com
     - DOMAIN-SUFFIX,v.gd
     - DOMAIN-SUFFIX,v.ps
+    - DOMAIN-SUFFIX,v.recipes
     - DOMAIN-SUFFIX,v2.help
     - DOMAIN-SUFFIX,v2.hysteria.network
     - DOMAIN-SUFFIX,v2ex.com
