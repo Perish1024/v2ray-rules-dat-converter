@@ -21,6 +21,7 @@ payload:
     - DOMAIN,rtlog5-applog-hl.fqnovel.com
     - DOMAIN,rtlog5-applog.fqnovel.com
     - DOMAIN,wlog.kuaishou.com
+    - DOMAIN,ykimg.alicdn.com
     - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
     - DOMAIN-SUFFIX,11222.cn
     - DOMAIN-SUFFIX,13a.com
@@ -621,7 +622,6 @@ payload:
     - DOMAIN-SUFFIX,mincdn.com
     - DOMAIN-SUFFIX,missevan.com
     - DOMAIN-SUFFIX,miyoushe.com
-    - DOMAIN-SUFFIX,mmstat.com
     - DOMAIN-SUFFIX,mobilemsg.youku.com
     - DOMAIN-SUFFIX,mogoo.com
     - DOMAIN-SUFFIX,monitor.music.qq.com
