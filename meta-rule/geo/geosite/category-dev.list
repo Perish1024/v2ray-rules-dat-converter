@@ -242,7 +242,10 @@
 +.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.com.cn
++.jetbrains.dev
 +.jetbrains.net
++.jetbrains.org
++.jetbrains.ru
 +.jetbrains.space
 +.jetbrains.team
 +.jfrog.com
@@ -257,7 +260,10 @@
 +.kali.org
 +.kde.org
 +.kernel.org
++.kotl.in
++.kotlinconf.com
 +.kotlinlang.org
++.ktor.io
 +.kubernetes.io
 +.launchpad.net
 +.launchpadcontent.net
@@ -316,6 +322,7 @@
 +.mspairlift.com
 +.msropendata.com
 +.msys2.org
++.myjetbrains.com
 +.myoctocat.com
 +.mysql.com
 +.mystrikingly.com
@@ -472,6 +479,7 @@
 +.swiftui.cn
 +.swiftui.com.cn
 +.system76.com
++.talkingkotlin.com
 +.tampermonkey.net
 +.termius.com
 +.termux.com
