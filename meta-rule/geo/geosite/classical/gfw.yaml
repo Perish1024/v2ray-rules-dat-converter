@@ -683,6 +683,7 @@ payload:
     - DOMAIN-SUFFIX,centerforhumanreprod.com
     - DOMAIN-SUFFIX,centralnation.com
     - DOMAIN-SUFFIX,centurys.net
+    - DOMAIN-SUFFIX,cerebras.ai
     - DOMAIN-SUFFIX,certificate-transparency.org
     - DOMAIN-SUFFIX,certificate.revocationcheck.com
     - DOMAIN-SUFFIX,cfr.org
