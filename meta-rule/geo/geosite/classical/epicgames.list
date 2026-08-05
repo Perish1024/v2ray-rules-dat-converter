@@ -3,6 +3,7 @@ DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,cubicmotion.com

@@ -86,6 +86,7 @@ payload:
     - DOMAIN-SUFFIX,nintendolabo.cn
     - DOMAIN-SUFFIX,nintendoswitch.cn
     - DOMAIN-SUFFIX,nintendoswitch.com.cn
+    - DOMAIN-SUFFIX,shanghaidisneyresort.com
     - DOMAIN-SUFFIX,st.dl.bscstorage.net
     - DOMAIN-SUFFIX,st.dl.eccdnx.com
     - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
