@@ -603,8 +603,14 @@ payload:
     - DOMAIN-SUFFIX,aiqicha.com
     - DOMAIN-SUFFIX,air-matters.com
     - DOMAIN-SUFFIX,airchangan.com
+    - DOMAIN-SUFFIX,airchina.cn
+    - DOMAIN-SUFFIX,airchina.com
     - DOMAIN-SUFFIX,airchina.com.cn
     - DOMAIN-SUFFIX,airchinacargo.com
+    - DOMAIN-SUFFIX,airchinagroup.com
+    - DOMAIN-SUFFIX,airchinalimited.cn
+    - DOMAIN-SUFFIX,airchinalimited.com
+    - DOMAIN-SUFFIX,airchinalimited.com.cn
     - DOMAIN-SUFFIX,aireads.cn
     - DOMAIN-SUFFIX,airguilin.com
     - DOMAIN-SUFFIX,airitilibrary.cn
@@ -1874,6 +1880,9 @@ payload:
     - DOMAIN-SUFFIX,cmpay.com
     - DOMAIN-SUFFIX,cmread.com
     - DOMAIN-SUFFIX,cmvideo.cn
+    - DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+    - DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+    - DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
     - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
     - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
     - DOMAIN-SUFFIX,cn.pool.ntp.org
@@ -2703,6 +2712,7 @@ payload:
     - DOMAIN-SUFFIX,flowus.cn
     - DOMAIN-SUFFIX,flxdns.cn
     - DOMAIN-SUFFIX,flxdns.com
+    - DOMAIN-SUFFIX,fly-airchina.com
     - DOMAIN-SUFFIX,flycua.com
     - DOMAIN-SUFFIX,flyme.cn
     - DOMAIN-SUFFIX,flyme.com
@@ -3266,6 +3276,7 @@ payload:
     - DOMAIN-SUFFIX,hoopchina.com.cn
     - DOMAIN-SUFFIX,hophing.cn
     - DOMAIN-SUFFIX,hophing.com.cn
+    - DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
     - DOMAIN-SUFFIX,hotread.com
     - DOMAIN-SUFFIX,houdao.com
     - DOMAIN-SUFFIX,houyicaiji.com
@@ -4867,6 +4878,7 @@ payload:
     - DOMAIN-SUFFIX,nextvid.net
     - DOMAIN-SUFFIX,nextworkshop.net
     - DOMAIN-SUFFIX,neyetwatcher.com
+    - DOMAIN-SUFFIX,nfcos.cn
     - DOMAIN-SUFFIX,nffund.com
     - DOMAIN-SUFFIX,nfpeople.com
     - DOMAIN-SUFFIX,nga.cn
@@ -5088,6 +5100,9 @@ payload:
     - DOMAIN-SUFFIX,philanthropy.xin
     - DOMAIN-SUFFIX,phira.cn
     - DOMAIN-SUFFIX,phoenixcenter.cn
+    - DOMAIN-SUFFIX,phoenixmiles.cn
+    - DOMAIN-SUFFIX,phoenixmiles.com
+    - DOMAIN-SUFFIX,phoenixmiles.com.cn
     - DOMAIN-SUFFIX,php.cn
     - DOMAIN-SUFFIX,phpcomposer.com
     - DOMAIN-SUFFIX,phpweblog.net
@@ -5398,6 +5413,7 @@ payload:
     - DOMAIN-SUFFIX,redenmc.com
     - DOMAIN-SUFFIX,redmagic.com
     - DOMAIN-SUFFIX,rednet.cn
+    - DOMAIN-SUFFIX,registry.aliyuncs.com
     - DOMAIN-SUFFIX,renren-inc.com
     - DOMAIN-SUFFIX,renren.com
     - DOMAIN-SUFFIX,renrendoc.com
@@ -5445,6 +5461,7 @@ payload:
     - DOMAIN-SUFFIX,runningcheese.com
     - DOMAIN-SUFFIX,runoob.com
     - DOMAIN-SUFFIX,ruseer.com
+    - DOMAIN-SUFFIX,ruubypay.com
     - DOMAIN-SUFFIX,rwkv.cn
     - DOMAIN-SUFFIX,rwkv.com
     - DOMAIN-SUFFIX,rzrc114.com
@@ -5491,6 +5508,7 @@ payload:
     - DOMAIN-SUFFIX,scratch5.com
     - DOMAIN-SUFFIX,scsentry.cn
     - DOMAIN-SUFFIX,scsjb.cn
+    - DOMAIN-SUFFIX,sctcd.com
     - DOMAIN-SUFFIX,sctv-tf.com
     - DOMAIN-SUFFIX,sctv.com
     - DOMAIN-SUFFIX,scyol.com
@@ -5573,6 +5591,7 @@ payload:
     - DOMAIN-SUFFIX,shenjing.com
     - DOMAIN-SUFFIX,shenmayouxi.com
     - DOMAIN-SUFFIX,shenzhenair.com
+    - DOMAIN-SUFFIX,shenzhentong.com
     - DOMAIN-SUFFIX,sheui.com
     - DOMAIN-SUFFIX,shfft.com
     - DOMAIN-SUFFIX,shgsec.com
@@ -5684,6 +5703,7 @@ payload:
     - DOMAIN-SUFFIX,snodehome.cn
     - DOMAIN-SUFFIX,snodehome.com
     - DOMAIN-SUFFIX,snowballsecurities.com
+    - DOMAIN-SUFFIX,snowballtech.com
     - DOMAIN-SUFFIX,snssdk.com
     - DOMAIN-SUFFIX,snxw.com
     - DOMAIN-SUFFIX,so-quick.cn
@@ -5740,6 +5760,7 @@ payload:
     - DOMAIN-SUFFIX,speiyou.com
     - DOMAIN-SUFFIX,springairlines.com
     - DOMAIN-SUFFIX,springtour.com
+    - DOMAIN-SUFFIX,sptcc.com
     - DOMAIN-SUFFIX,sq.cc
     - DOMAIN-SUFFIX,sqqnh.cn
     - DOMAIN-SUFFIX,sqqnh.org
