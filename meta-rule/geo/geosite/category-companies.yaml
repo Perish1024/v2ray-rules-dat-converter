@@ -209,7 +209,6 @@ payload:
     - +.ads-api.duolingo.com
     - +.ads.viqeo.tv
     - +.ads.yahoo.com
-    - +.ads.yahoo.com
     - +.ads.yandex
     - +.ads.yandex.ru
     - +.ads.youtube.com
@@ -474,6 +473,7 @@ payload:
     - +.anydesk.com
     - +.aodahl.com
     - +.aokwholesale.net
+    - +.aolcdn.com
     - +.aorus.com
     - +.aoruszone.cn
     - +.ap0le.com
@@ -3212,7 +3212,6 @@ payload:
     - +.geforce.com.tw
     - +.gemfire.net
     - +.gemini.yahoo.com
-    - +.gemini.yahoo.com
     - +.genetic-technologies.am
     - +.geneticconstructor.com
     - +.genotek.am
@@ -5718,6 +5717,7 @@ payload:
     - +.ospray.org
     - +.ospserver.net
     - +.ouroath.com
+    - +.ouryahoo.com
     - +.out-app-purchase.com
     - +.outingsapp.com
     - +.outletbeatsshop.com
@@ -7210,7 +7210,6 @@ payload:
     - +.yahoo.cl
     - +.yahoo.cm
     - +.yahoo.cn
-    - +.yahoo.cn
     - +.yahoo.co.ao
     - +.yahoo.co.bw
     - +.yahoo.co.ck
@@ -7239,7 +7238,6 @@ payload:
     - +.yahoo.com.bo
     - +.yahoo.com.br
     - +.yahoo.com.bz
-    - +.yahoo.com.cn
     - +.yahoo.com.cn
     - +.yahoo.com.co
     - +.yahoo.com.do
@@ -7345,6 +7343,7 @@ payload:
     - +.yahoodns.net
     - +.yahoofinance.com
     - +.yahoohealth.com
+    - +.yahooinc.com
     - +.yahoomusic.com
     - +.yahoosandbox.com
     - +.yahoosportsbook.com
@@ -7610,7 +7609,6 @@ payload:
     - +.youtubemobilesupport.com
     - +.ypncdn.com
     - +.ysm.yahoo.com
-    - +.ysm.yahoo.com
     - +.yt.be
     - +.ytimg.com
     - +.yusercontent.com
@@ -7795,7 +7793,6 @@ payload:
     - cdn-cn4.apple-mapkit.com
     - cdn.apple-mapkit.com
     - cdn.globalsigncdn.com.cdn.cloudflare.net
-    - cdn.js7k.com
     - cdn.js7k.com
     - cdn1.apple-mapkit.com
     - cdn2.apple-mapkit.com

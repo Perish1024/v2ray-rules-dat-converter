@@ -100,7 +100,6 @@ payload:
     - DOMAIN-SUFFIX,ads-api.duolingo.com
     - DOMAIN-SUFFIX,ads.viqeo.tv
     - DOMAIN-SUFFIX,ads.yahoo.com
-    - DOMAIN-SUFFIX,ads.yahoo.com
     - DOMAIN-SUFFIX,ads.yandex
     - DOMAIN-SUFFIX,ads.yandex.ru
     - DOMAIN-SUFFIX,ads.youtube.com
@@ -156,7 +155,6 @@ payload:
     - DOMAIN-SUFFIX,facebookads.com
     - DOMAIN-SUFFIX,fcmatch.google.com
     - DOMAIN-SUFFIX,g.mindbox.ru
-    - DOMAIN-SUFFIX,gemini.yahoo.com
     - DOMAIN-SUFFIX,gemini.yahoo.com
     - DOMAIN-SUFFIX,google-analytics-cn.com
     - DOMAIN-SUFFIX,google-analytics.com
@@ -231,5 +229,4 @@ payload:
     - DOMAIN-SUFFIX,yandex-metrica.ru
     - DOMAIN-SUFFIX,yandexmetrica.com
     - DOMAIN-SUFFIX,yango-ads.com
-    - DOMAIN-SUFFIX,ysm.yahoo.com
     - DOMAIN-SUFFIX,ysm.yahoo.com
