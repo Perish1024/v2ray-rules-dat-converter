@@ -192,6 +192,7 @@ payload:
     - +.360pay.cn
     - +.360qhcdn.com
     - +.360safe.com
+    - +.360scdn.com
     - +.360shouji.com
     - +.360sjyh.cn
     - +.360so.com
@@ -2178,6 +2179,7 @@ payload:
     - +.deepin.org.cn
     - +.deepinos.org
     - +.deepseek.com
+    - +.deepseeksvc.com
     - +.dengguobi.com
     - +.deppon.com
     - +.deppon.com.cn
@@ -5983,6 +5985,7 @@ payload:
     - +.tcloudscdn.net
     - +.tcltech.com
     - +.tcp5.com
+    - +.tctpwebankcdn.net
     - +.tcwqqdy.guru
     - +.tdnsdl1.cn
     - +.tdnsdl1.com.cn
@@ -6061,7 +6064,9 @@ payload:
     - +.tencentcdb.cn
     - +.tencentcdb.com
     - +.tencentcdb.com.cn
+    - +.tencentclb.cn
     - +.tencentclb.com
+    - +.tencentclb.com.cn
     - +.tencentcloud-aiot.com
     - +.tencentcloud.com
     - +.tencentcloudapi.com
@@ -6085,6 +6090,7 @@ payload:
     - +.tencentelasticsearch.com
     - +.tencentid.com
     - +.tencentidentity.com
+    - +.tencentmiying.com
     - +.tencentmusic.com
     - +.tencentproxy.com
     - +.tencentrio.com
@@ -6097,6 +6103,7 @@ payload:
     - +.tendbcluster.com
     - +.tendcloud.com
     - +.tendis.net
+    - +.tengmed.com
     - +.tenpay.com
     - +.tenxcloud.com
     - +.tesoon.com
@@ -6758,6 +6765,7 @@ payload:
     - +.wasumedia.cn
     - +.wbimg.cn
     - +.wbimg.com
+    - +.wbweilicai.com
     - +.wcbygame.com
     - +.wcdn.cn
     - +.wch-ic.com
@@ -6883,6 +6891,7 @@ payload:
     - +.wooyun.org
     - +.woozooo.com
     - +.woread.com.cn
+    - +.workbuddy.cn
     - +.workercn.cn
     - +.worktile.com
     - +.worldofship.cn
