@@ -370,6 +370,7 @@ payload:
     - DOMAIN,publicassets.cdn-apple.com
     - DOMAIN,qiao-cn.com
     - DOMAIN,qpx.googleflights.net
+    - DOMAIN,radio.itunes.apple.com
     - DOMAIN,recaptcha-cn.net
     - DOMAIN,recaptcha.net
     - DOMAIN,redirector.bdn.dev
@@ -423,7 +424,9 @@ payload:
     - DOMAIN,sequoia.apple.com
     - DOMAIN,service.urchin.com
     - DOMAIN,sf-api-token-service.itunes.apple.com
+    - DOMAIN,sh-pod1-smp-device.apple.com
     - DOMAIN,sh-pod2-smp-device.apple.com
+    - DOMAIN,sh-pod3-smp-device.apple.com
     - DOMAIN,shazam-insights.cdn-apple.com
     - DOMAIN,shell.cdn.office.net
     - DOMAIN,smp-device-content.apple.com
@@ -707,7 +710,6 @@ payload:
     - DOMAIN-SUFFIX,hpstore.cn
     - DOMAIN-SUFFIX,icloud-apple.cn
     - DOMAIN-SUFFIX,icloud-content.com.cn
-    - DOMAIN-SUFFIX,icloud.cn
     - DOMAIN-SUFFIX,icloud.com.cn
     - DOMAIN-SUFFIX,icloud.net.cn
     - DOMAIN-SUFFIX,icloudapple.cn

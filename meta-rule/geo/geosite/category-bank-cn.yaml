@@ -1,6 +1,7 @@
 payload:
     - +.8008205555.cn
     - +.8008205555.com
+    - +.95508.com
     - +.95516.com
     - +.95516.net
     - +.95588.com
@@ -16,6 +17,7 @@ payload:
     - +.bocaviation.com
     - +.boccfc.cc
     - +.boccfc.cn
+    - +.bocd.com.cn
     - +.bocfullertonbank.com
     - +.bocgi.com
     - +.bocgins.com
@@ -44,6 +46,8 @@ payload:
     - +.ccblife-test.com.cn
     - +.ccbtrust.com.cn
     - +.ccbxt.com
+    - +.cdrcb.com
+    - +.cdrcbank.com
     - +.cebbank.com
     - +.cfc108.com
     - +.cgbchina.com.cn
@@ -92,6 +96,7 @@ payload:
     - +.hsbcinsurance.com.cn
     - +.hsbcqh.com.cn
     - +.hxb.com.cn
+    - +.ibangbank.com
     - +.icbc
     - +.icbc.com.cn
     - +.icbccs.com.cn

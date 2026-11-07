@@ -272,6 +272,7 @@ payload:
     - +.dongchediapp.com
     - +.doubao-dev.com
     - +.doubao.com
+    - +.doubaoapps.com
     - +.doubaocdn.com
     - +.doubo03.com
     - +.doudou.com
@@ -298,6 +299,7 @@ payload:
     - +.ecombdimg.com
     - +.ecombdstatic.com
     - +.ecombdvod.com
+    - +.edge-byted.com
     - +.edgeceler.com
     - +.emr-volces.com
     - +.extlog.snssdk.com
@@ -367,6 +369,7 @@ payload:
     - +.gogokid.com.cn
     - +.gslbdns.com
     - +.gslbdns.net
+    - +.haimian.com
     - +.hapierxia.com
     - +.hapipixia.com
     - +.hapiyixia.com
@@ -621,11 +624,14 @@ payload:
     - +.tiktokglobalshopv.com
     - +.tiktokminis.us
     - +.tiktokrow-cdn.com
+    - +.tiktokshop.com
+    - +.tiktokstaticb.com
     - +.tiktokv.com
     - +.tiktokv.com.edgekey.net
     - +.tiktokv.com.edgesuite.net
     - +.tiktokv.eu
     - +.tiktokv.us
+    - +.tiktokvapp.com
     - +.tiktokw.eu
     - +.tiktokw.us
     - +.tlbapm.com

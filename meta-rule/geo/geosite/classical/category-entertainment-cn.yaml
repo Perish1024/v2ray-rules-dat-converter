@@ -400,7 +400,6 @@ payload:
     - DOMAIN-SUFFIX,gcloudsdk.com
     - DOMAIN-SUFFIX,gcloudsvcs.com
     - DOMAIN-SUFFIX,gcores.com
-    - DOMAIN-SUFFIX,gdtimg.com
     - DOMAIN-SUFFIX,gifshow.com
     - DOMAIN-SUFFIX,gitv.cn
     - DOMAIN-SUFFIX,gitv.tv
@@ -492,7 +491,6 @@ payload:
     - DOMAIN-SUFFIX,img-space.com
     - DOMAIN-SUFFIX,img4399.com
     - DOMAIN-SUFFIX,imgo.tv
-    - DOMAIN-SUFFIX,in.th
     - DOMAIN-SUFFIX,inke.cn
     - DOMAIN-SUFFIX,inkuai.com
     - DOMAIN-SUFFIX,inkwai.com
@@ -913,6 +911,7 @@ payload:
     - DOMAIN-SUFFIX,yximgs.com
     - DOMAIN-SUFFIX,yxwsgame.com
     - DOMAIN-SUFFIX,yy.com
+    - DOMAIN-SUFFIX,yyeshop.cn
     - DOMAIN-SUFFIX,yysls.cn
     - DOMAIN-SUFFIX,yystatic.com
     - DOMAIN-SUFFIX,yystv.cn

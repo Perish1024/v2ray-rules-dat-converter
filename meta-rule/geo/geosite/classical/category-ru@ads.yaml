@@ -65,6 +65,7 @@ payload:
     - DOMAIN,clck.yandex.net
     - DOMAIN,clck.yango.com
     - DOMAIN,click.rustore.ru
+    - DOMAIN,error-tracking.megamarket.tech
     - DOMAIN,google-analytics-suite.ozon.ru
     - DOMAIN,informer.yandex.ru
     - DOMAIN,log.strm.yandex.ru
@@ -74,6 +75,7 @@ payload:
     - DOMAIN,mc.yandex.com
     - DOMAIN,mc.yandex.net
     - DOMAIN,mc.yango.com
+    - DOMAIN,metrics.21-school.ru
     - DOMAIN,metrika.kontur.ru
     - DOMAIN,new-adv.ozon.ru
     - DOMAIN,pixel.rustore.ru
@@ -95,6 +97,7 @@ payload:
     - DOMAIN,sentry.ozon.ru
     - DOMAIN,sentry.popmechanic.ru
     - DOMAIN,sentry.rustore.ru
+    - DOMAIN,sentry.sberauto.com
     - DOMAIN,sentry.viqeo.tv
     - DOMAIN,sentry.wb.ru
     - DOMAIN,sentry.x5.ru
@@ -109,6 +112,8 @@ payload:
     - DOMAIN,t.mail.ru
     - DOMAIN,target.vk.com
     - DOMAIN,top-staging.mail.ru
+    - DOMAIN,tracing-http.megamarket.tech
+    - DOMAIN,visor.sberbank.ru
     - DOMAIN,visor.sberbank.ru
     - DOMAIN,web-analytics.wildberries.ru
     - DOMAIN,whiteline.mail.ru
@@ -126,6 +131,7 @@ payload:
     - DOMAIN-SUFFIX,adfox.yandex.ru
     - DOMAIN-SUFFIX,admetrica.ru
     - DOMAIN-SUFFIX,adriver.ru
+    - DOMAIN-SUFFIX,ads.sber.ru
     - DOMAIN-SUFFIX,ads.sber.ru
     - DOMAIN-SUFFIX,ads.viqeo.tv
     - DOMAIN-SUFFIX,ads.yandex
@@ -145,6 +151,7 @@ payload:
     - DOMAIN-SUFFIX,bs.yandex.ru
     - DOMAIN-SUFFIX,clck.yandex.ru
     - DOMAIN-SUFFIX,clickstream.sberbank.ru
+    - DOMAIN-SUFFIX,clickstream.sberbank.ru
     - DOMAIN-SUFFIX,counter.yandex.ru
     - DOMAIN-SUFFIX,cxhub.ru
     - DOMAIN-SUFFIX,e.mindbox.ru
@@ -160,15 +167,19 @@ payload:
     - DOMAIN-SUFFIX,ms.vk.com
     - DOMAIN-SUFFIX,ms.vk.ru
     - DOMAIN-SUFFIX,myadx.net
+    - DOMAIN-SUFFIX,neon.click
     - DOMAIN-SUFFIX,obs.mts.ru
     - DOMAIN-SUFFIX,r.mail.ru
     - DOMAIN-SUFFIX,radar.imgsmail.ru
     - DOMAIN-SUFFIX,relap.mail.ru
     - DOMAIN-SUFFIX,roistat.com
     - DOMAIN-SUFFIX,s.mindbox.ru
+    - DOMAIN-SUFFIX,sbermarketing.ru
     - DOMAIN-SUFFIX,target.my.com
     - DOMAIN-SUFFIX,target.vk.ru
     - DOMAIN-SUFFIX,targetads.io
+    - DOMAIN-SUFFIX,terratraf.com
+    - DOMAIN-SUFFIX,terratraf.io
     - DOMAIN-SUFFIX,top-fwz1.mail.ru
     - DOMAIN-SUFFIX,trace-flow.ru
     - DOMAIN-SUFFIX,tracker-api.my.com

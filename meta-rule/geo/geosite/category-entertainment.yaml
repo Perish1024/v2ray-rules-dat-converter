@@ -75,6 +75,7 @@ payload:
     - +.amcn.com
     - +.amcnetworks.com
     - +.amcplus.com
+    - +.amdgaming.com
     - +.ameba.jp
     - +.amebame.com
     - +.amebaownd.com
@@ -112,7 +113,6 @@ payload:
     - +.artstation.com
     - +.artstationmedia.com
     - +.artstorm.com
-    - +.asobostudio.com
     - +.att.tv
     - +.atttvnow.com
     - +.attwatchtv.com
@@ -210,6 +210,10 @@ payload:
     - +.catchplay.com
     - +.cdnvideo.ru
     - +.cdnvideohub.com
+    - +.cdpred.services
+    - +.cdprojekt.com
+    - +.cdprojekt.red
+    - +.cdprojektred.com
     - +.cf-vanguard.com
     - +.championshipseriesleague.com
     - +.charlotte-anime.jp
@@ -252,6 +256,7 @@ payload:
     - +.cubicodyssey.game
     - +.curseforge.com
     - +.cxacg.com
+    - +.cyberpunk.net
     - +.cygames.co.jp
     - +.cygames.jp
     - +.d4dj-pj.com
@@ -483,6 +488,7 @@ payload:
     - +.fanatical.com
     - +.fanbox.cc
     - +.fandango.com
+    - +.fanfiction.net
     - +.fanfictionero.com
     - +.fast.com
     - +.fc-buddyfight.com
@@ -499,7 +505,6 @@ payload:
     - +.fireside.fm
     - +.firesidegatherings.com
     - +.fitgirl-repacks.site
-    - +.flightsimulator.com
     - +.flipnotestudio.com
     - +.forgecdn.net
     - +.formula1.com
@@ -522,6 +527,7 @@ payload:
     - +.gaijinent.com
     - +.game-repack.site
     - +.gameapps.hk
+    - +.gamebanana.com
     - +.gamebase.com.tw
     - +.gamebiz.jp
     - +.gamebusiness.jp
@@ -758,6 +764,7 @@ payload:
     - +.itunesu.net
     - +.iutunes.com
     - +.ivi.ru
+    - +.ivi.tv
     - +.ivicdn.tv
     - +.iyf.tv
     - +.joinmaidez.com
@@ -800,6 +807,7 @@ payload:
     - +.konamisportsclub.jp
     - +.konamistyle.jp
     - +.koubaibu.jp
+    - +.kp.yandex.net
     - +.kpacg.com
     - +.kraftonde.com
     - +.kyurem.com
@@ -829,6 +837,9 @@ payload:
     - +.likeeapp.ru
     - +.likeevideo.com
     - +.likeevideo.ru
+    - +.limbuscompany.global
+    - +.limbuscompanyapi.com
+    - +.limbuscompanycdn.org
     - +.linetv.tw
     - +.litbus-anime.com
     - +.litv.tv
@@ -969,6 +980,7 @@ payload:
     - +.neoforged.net
     - +.netflix.ca
     - +.netflix.com
+    - +.netflix.com.edgesuite.net
     - +.netflix.net
     - +.netflixdnstest0.com
     - +.netflixdnstest1.com
@@ -1126,6 +1138,7 @@ payload:
     - +.playartifact.com
     - +.playbattlegrounds.com
     - +.playfamily.ru
+    - +.playgwent.com
     - +.playhearthstone.com
     - +.playmation.com
     - +.playnintendo.com
@@ -1136,6 +1149,7 @@ payload:
     - +.playstation
     - +.playstation.com
     - +.playstation.net
+    - +.playstationnetwork.com
     - +.playvalorant.com
     - +.playwarcraft3.com
     - +.pluto.tv
@@ -1181,11 +1195,13 @@ payload:
     - +.prod.service.minerva.devices.a2z.com
     - +.product.co.jp
     - +.projectapex.com
+    - +.projectmoon.studio
     - +.promodj.com
     - +.protondb.com
     - +.pscdn.co
     - +.ptzwx.com
     - +.pubg.com
+    - +.pv-cdn.net
     - +.pvp.net
     - +.pvp.tv
     - +.pvzgw2.com
@@ -1198,6 +1214,7 @@ payload:
     - +.quiltmc.org
     - +.quixel.com
     - +.quixel.se
+    - +.r2modman.com
     - +.radgametools.com
     - +.radiko-cf.com
     - +.radiko.jp
@@ -1314,6 +1331,7 @@ payload:
     - +.simg.jp
     - +.skate2.com
     - +.sketchfab.com
+    - +.skinswap.com
     - +.skylanders.com
     - +.sledgehammergames.com
     - +.sling.com
@@ -1350,6 +1368,7 @@ payload:
     - +.spoti.fi
     - +.spotify-everywhere.com
     - +.spotify.com
+    - +.spotify.com.edgesuite.net
     - +.spotify.design
     - +.spotify.link
     - +.spotifycdn.com
@@ -1404,6 +1423,8 @@ payload:
     - +.steamdeck.com
     - +.steamgames.com
     - +.steaminventoryhelper.com
+    - +.steamos.cloud
+    - +.steampeek.hu
     - +.steampowered.com
     - +.steampowered.com.8686c.com
     - +.steamserver.net
@@ -1456,9 +1477,12 @@ payload:
     - +.thestationbymaker.com
     - +.thetvdb.com
     - +.thewaltdisneycompany.com
+    - +.thewitcher.com
     - +.thewonderful101.com
     - +.thisisgame.com
     - +.thisispolaris.com
+    - +.thunderstore.io
+    - +.thunderstore.org
     - +.tiberiumalliances.com
     - +.tiburon.com
     - +.tidal.com
@@ -1479,11 +1503,14 @@ payload:
     - +.tiktokglobalshopv.com
     - +.tiktokminis.us
     - +.tiktokrow-cdn.com
+    - +.tiktokshop.com
+    - +.tiktokstaticb.com
     - +.tiktokv.com
     - +.tiktokv.com.edgekey.net
     - +.tiktokv.com.edgesuite.net
     - +.tiktokv.eu
     - +.tiktokv.us
+    - +.tiktokvapp.com
     - +.tiktokw.eu
     - +.tiktokw.us
     - +.titanfall.com
@@ -1604,10 +1631,12 @@ payload:
     - +.worldoftanks.eu
     - +.worldofwarcraft.com
     - +.worldofwarplanes.com
+    - +.worldofwarships.asia
     - +.worldofwarships.com
     - +.worldseriesofwarzone.com
     - +.wotblitz.com
     - +.wowsblitz.com
+    - +.wplace.live
     - +.ws-blau.com
     - +.ws-tcg.com
     - +.wtmobile.com
@@ -1919,11 +1948,13 @@ payload:
     - d2vjef5jvl6bfs.cloudfront.net
     - d2xmjdvx03ij56.cloudfront.net
     - d31dormfno8pk4.cloudfront.net
+    - d348twzf7a8p5.cloudfront.net
     - d36nr0u3xmc4mm.cloudfront.net
     - d3aqoihi2n8ty8.cloudfront.net
     - d3c27h4odz752x.cloudfront.net
     - d3lh5kkip965lj.cloudfront.net
     - d3nwj80emtnjeo.cloudfront.net
+    - d3stzm2eumvgb4.cloudfront.net
     - d3ucl0eqgl80l5.cloudfront.net
     - d3vd9lfkzbru3h.cloudfront.net
     - d6d4ismr40iw.cloudfront.net
@@ -1933,6 +1964,7 @@ payload:
     - dcb0z5ovq92mz.cloudfront.net
     - ddacn6pr5v0tl.cloudfront.net
     - ddpjwstwtpszg.cloudfront.net
+    - devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
     - dfp6rglgjqszk.cloudfront.net
     - dgeft87wbj63p.cloudfront.net
     - disney.my.sentry.io
@@ -1941,6 +1973,7 @@ payload:
     - dlmobilegarena-a.akamaihd.net
     - dmqdd6hw24ucf.cloudfront.net
     - downloaddispatch.itunes.apple.com
+    - doy2mn9upadnk.cloudfront.net
     - dqd0jw5gvbchn.cloudfront.net
     - dqrpb9wgowsf5.cloudfront.net
     - ds-linear-abematv.akamaized.net
@@ -1957,7 +1990,6 @@ payload:
     - espndotcom.tt.omtrdc.net
     - f3b7q2p3.ssl.hwcdn.net
     - favoritescc-hamivideo2.cdn.hinet.net
-    - flightsimulator.azureedge.net
     - fpinit.itunes.apple.com
     - gamedownloads-rockstargames-com.akamaized.net
     - gamer-cds.cdn.hinet.net
@@ -1989,6 +2021,8 @@ payload:
     - itunes.apple.com
     - itunesconnect.apple.com
     - js-cdn.music.apple.com
+    - kp-config-smart-tv.akamaized.net
+    - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
     - lastfm-img.freetls.fastly.net
     - lastfm.freetls.fastly.net
     - lazer.ppy.sh
@@ -2006,7 +2040,6 @@ payload:
     - mvod.itunes.apple.com
     - myapp.itunes.apple.com
     - nbbb1bb7.pmhcjk.com
-    - netflix.com.edgesuite.net
     - notify.ppy.sh
     - np-edge.itunes.apple.com
     - np-edge.itunes.apple.com
@@ -2038,6 +2071,7 @@ payload:
     - pubg1.battleye.com
     - pvr-hamivideo.cdn.hinet.net
     - q676790b.pmhcjk.com
+    - radio.itunes.apple.com
     - roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
     - roblox-poc.global.ssl.fastly.net
     - robloxcorp.s.llnwi.net
@@ -2056,7 +2090,6 @@ payload:
     - sp.itunes.apple.com
     - spectator.ppy.sh
     - speedysub.music.apple.com
-    - spotify.com.edgesuite.net
     - spotify.map.fastly.net
     - spotify.map.fastlylb.net
     - ssl-lvlt.cdn.ea.com

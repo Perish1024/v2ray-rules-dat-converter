@@ -38,6 +38,8 @@
 +.bitvise.com
 +.blazor.net
 +.blogoverflow.com
++.bmonkeys.net
++.boldgrid.com
 +.bootstrapcdn.com
 +.botframework.com
 +.botorch.org
@@ -59,6 +61,7 @@
 +.chocolatey.org
 +.clearlinux.org
 +.clojure.org
++.cloudwp.dev
 +.cnpmjs.org
 +.codeberg.org
 +.codeberg.page
@@ -105,6 +108,7 @@
 +.dotdeb.org
 +.draftjs.org
 +.ecr.aws
++.editorx.com
 +.electronjs.org
 +.elegantthemes.com
 +.elementary.io
@@ -174,6 +178,7 @@
 +.getcomposer.org
 +.getfedora.org
 +.getpaint.net
++.getsafety.com
 +.getsentry.com
 +.getzola.org
 +.gh.io
@@ -380,6 +385,7 @@
 +.packagist.org
 +.packer.io
 +.paint.net
++.parastorage.com
 +.parse.com
 +.pcre.org
 +.perf-events.cloud.unity3d.com
@@ -396,6 +402,7 @@
 +.polymerproject.org
 +.poshtestgallery.com
 +.postgresql.org
++.postman.com
 +.prd-lender.cdp.internal.unity3d.com
 +.pub.dev
 +.putty.org
@@ -407,6 +414,7 @@
 +.pyrobot.org
 +.python.org
 +.pythonhosted.org
++.pyup.io
 +.qt-project.org
 +.qt.io
 +.quay.io
@@ -446,6 +454,7 @@
 +.rubygems.org
 +.rust-lang.org
 +.rustup.rs
++.safetycli.com
 +.sankie.net
 +.scala-lang.org
 +.scala-sbt.org
@@ -495,6 +504,7 @@
 +.system76.com
 +.talkingkotlin.com
 +.tampermonkey.net
++.templatemonster.com
 +.termius.com
 +.termux.com
 +.termux.dev
@@ -511,6 +521,7 @@
 +.tildacdn.net
 +.timelinestoryteller.com
 +.timestamp.apple.com
++.tmimgcdn.com
 +.topcoder.com
 +.ubuntu-touch.io
 +.ubuntu.com
@@ -549,12 +560,22 @@
 +.w.org
 +.wapm.io
 +.wasmer.io
++.webflow-ext.com
 +.webflow.com
++.webflow.io
 +.webkit.org
 +.webkitgtk.org
 +.weblate.org
 +.webobjects.com
++.website-files.com
 +.wireshark.org
++.wix-code.com
++.wix.com
++.wixanswers.com
++.wixapps.net
++.wixmp.com
++.wixsite.com
++.wixstatic.com
 +.wordcamp.org
 +.wordpress.com
 +.wordpress.net
@@ -598,6 +619,7 @@ copilot-workspace.githubnext.com
 copilotprodattachments.blob.core.windows.net
 crashlyticsreports-pa.googleapis.com
 d29vzk4ow07wi7.cloudfront.net
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 developers.facebook.com
@@ -634,6 +656,7 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 p-events-delivery.akamaized.net
 packages.microsoft.com
 poshtestgallery.cloudapp.net
+production-copilot-host-westus.webpubsub.azure.com
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
 productionresultssa10.blob.core.windows.net
@@ -657,6 +680,7 @@ productionresultssa9.blob.core.windows.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
+rt.services.visualstudio.com
 update.crashlytics.com
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net

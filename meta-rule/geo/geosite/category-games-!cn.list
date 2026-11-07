@@ -13,6 +13,7 @@
 +.activision.com
 +.activisionblizzard.com
 +.activisionblizzardmedia.com
++.amdgaming.com
 +.amiibo.com
 +.anthemgame.com
 +.anthemthegame.com
@@ -23,7 +24,6 @@
 +.artstation.com
 +.artstationmedia.com
 +.artstorm.com
-+.asobostudio.com
 +.awayoutgame.com
 +.ayudanintendo.com
 +.battle.net
@@ -73,6 +73,10 @@
 +.candycrush.com
 +.capitalgames.com
 +.capturingreality.com
++.cdpred.services
++.cdprojekt.com
++.cdprojekt.red
++.cdprojektred.com
 +.championshipseriesleague.com
 +.chillingo.com
 +.chunkbase.com
@@ -95,6 +99,7 @@
 +.cubicmotion.com
 +.cubicodyssey.game
 +.curseforge.com
++.cyberpunk.net
 +.cygames.co.jp
 +.cygames.jp
 +.daoc.net
@@ -184,7 +189,6 @@
 +.fireemblemawakening.com
 +.firesidegatherings.com
 +.fitgirl-repacks.site
-+.flightsimulator.com
 +.flipnotestudio.com
 +.forgecdn.net
 +.fortnite-vod.akamaized.net
@@ -199,6 +203,7 @@
 +.gaijin.net
 +.gaijinent.com
 +.game-repack.site
++.gamebanana.com
 +.gamepass.com
 +.gamesfirsthelsinki.com
 +.gamesplanet.com
@@ -289,6 +294,9 @@
 +.learnwithleague.com
 +.legendofzelda.cn
 +.legendofzelda.com.cn
++.limbuscompany.global
++.limbuscompanyapi.com
++.limbuscompanycdn.org
 +.log-upload-os.hoyoverse.com
 +.lol-europe.com
 +.lolclub.org
@@ -440,6 +448,7 @@
 +.playapex.com
 +.playartifact.com
 +.playbattlegrounds.com
++.playgwent.com
 +.playhearthstone.com
 +.playnintendo.com
 +.playoverwatch.com
@@ -447,6 +456,7 @@
 +.playstation
 +.playstation.com
 +.playstation.net
++.playstationnetwork.com
 +.playvalorant.com
 +.playwarcraft3.com
 +.pogo.com
@@ -478,6 +488,7 @@
 +.priconne-redive.jp
 +.prismlauncher.org
 +.projectapex.com
++.projectmoon.studio
 +.protondb.com
 +.pubg.com
 +.pvp.net
@@ -487,6 +498,7 @@
 +.quiltmc.org
 +.quixel.com
 +.quixel.se
++.r2modman.com
 +.radgametools.com
 +.ravensoftware.com
 +.rayark.download
@@ -571,6 +583,7 @@
 +.simcity.com
 +.skate2.com
 +.sketchfab.com
++.skinswap.com
 +.skylanders.com
 +.sledgehammergames.com
 +.snk-corp.co.jp
@@ -620,6 +633,8 @@
 +.steamdeck.com
 +.steamgames.com
 +.steaminventoryhelper.com
++.steamos.cloud
++.steampeek.hu
 +.steampowered.com
 +.steampowered.com.8686c.com
 +.steamserver.net
@@ -660,7 +675,10 @@
 +.thesims3.com
 +.thesims4.com
 +.thesimssocial.com
++.thewitcher.com
 +.thewonderful101.com
++.thunderstore.io
++.thunderstore.org
 +.tiberiumalliances.com
 +.tiburon.com
 +.titanfall.com
@@ -717,10 +735,12 @@
 +.worldoftanks.eu
 +.worldofwarcraft.com
 +.worldofwarplanes.com
++.worldofwarships.asia
 +.worldofwarships.com
 +.worldseriesofwarzone.com
 +.wotblitz.com
 +.wowsblitz.com
++.wplace.live
 +.wtmobile.com
 +.xbox
 +.xbox.co
@@ -780,13 +800,15 @@ c.ppy.sh
 cdngarenanow-a.akamaihd.net
 cloudsync-prod.s3.amazonaws.com
 d1unuk07s6td74.cloudfront.net
+d348twzf7a8p5.cloudfront.net
 datarouter.apps.netherrealm.com
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
+doy2mn9upadnk.cloudfront.net
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
 f3b7q2p3.ssl.hwcdn.net
-flightsimulator.azureedge.net
 gamedownloads-rockstargames-com.akamaized.net
 gog-cdn-lumen.secure2.footprint.net
 gog-cdn.akamaized.net

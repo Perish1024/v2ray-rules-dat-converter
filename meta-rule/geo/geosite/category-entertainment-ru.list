@@ -4,11 +4,13 @@
 +.cdnvideo.ru
 +.cdnvideohub.com
 +.ivi.ru
++.ivi.tv
 +.ivicdn.tv
 +.kinescopecdn.net
 +.kinopoisk-ru.clstorage.net
 +.kinopoisk.ru
 +.kinorium.com
++.kp.yandex.net
 +.more.tv
 +.okko.sport
 +.okko.tv
@@ -29,3 +31,5 @@
 +.viju.ru
 +.wink.am
 +.wink.ru
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com

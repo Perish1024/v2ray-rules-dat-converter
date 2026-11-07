@@ -169,6 +169,7 @@ DOMAIN,podcasts.itunes.apple.com
 DOMAIN,probe.siri.apple.com
 DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,publicassets.cdn-apple.com
+DOMAIN,radio.itunes.apple.com
 DOMAIN,s.mzstatic.com
 DOMAIN,s1.mzstatic.com
 DOMAIN,s2.mzstatic.com
@@ -183,7 +184,9 @@ DOMAIN,seed-swallow.siri.apple.com
 DOMAIN,seed.siri.apple.com
 DOMAIN,sequoia.apple.com
 DOMAIN,sf-api-token-service.itunes.apple.com
+DOMAIN,sh-pod1-smp-device.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
+DOMAIN,sh-pod3-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sp.itunes.apple.com
@@ -272,7 +275,6 @@ DOMAIN-SUFFIX,faceshift.cn
 DOMAIN-SUFFIX,homepod.cn
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com.cn
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn

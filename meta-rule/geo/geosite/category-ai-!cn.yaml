@@ -5,14 +5,19 @@ payload:
     - +.aida.googleapis.com
     - +.aisandbox-pa.googleapis.com
     - +.aistudio.google.com
+    - +.ant.dev
     - +.anthropic.com
+    - +.anthropic.team
     - +.antigravity-unleash.goog
     - +.antigravity.google
+    - +.antspace.dev
     - +.anythingllm.com
     - +.arena.ai
+    - +.artificialanalysis.ai
     - +.bard.google.com
     - +.cerebras.ai
     - +.chat.com
+    - +.chatbotclaude.com
     - +.chatgpt.com
     - +.chatgpt.livekit.cloud
     - +.chatgpt.site
@@ -22,12 +27,19 @@ payload:
     - +.ciciaicdn.com
     - +.clau.de
     - +.claude.ai
+    - +.claude.app
     - +.claude.com
     - +.claude.dev
+    - +.claude.new
+    - +.claude.site
+    - +.claudeacademy.com
     - +.claudemcpclient.com
     - +.claudemcpcontent.com
+    - +.claudepages.dev
+    - +.claudestudio.com
     - +.claudeusercontent.com
     - +.clawhub.ai
+    - +.cline.bot
     - +.clipdrop.co
     - +.codeium.com
     - +.codeiumdata.com
@@ -38,6 +50,8 @@ payload:
     - +.comfy.org
     - +.comfyci.org
     - +.comfyregistry.org
+    - +.commandcode.ai
+    - +.context7.com
     - +.copilot-stg.com
     - +.copilot.cloud.microsoft
     - +.copilot.com
@@ -49,6 +63,7 @@ payload:
     - +.cursor.com
     - +.cursor.sh
     - +.cursorapi.com
+    - +.cursorvm.com
     - +.deepmind.com
     - +.deepmind.google
     - +.deepwiki.com
@@ -79,6 +94,7 @@ payload:
     - +.grazie.aws.intellij.net
     - +.grok.com
     - +.grok.x.com
+    - +.grokbot.com
     - +.grokipedia.com
     - +.groq.com
     - +.h2o.ai
@@ -100,11 +116,13 @@ payload:
     - +.lmstudio.ai
     - +.lovart.ai
     - +.lpsnmedia.net
+    - +.magnific.com
     - +.makersuite.google.com
     - +.manus.im
     - +.manuscdn.com
     - +.marscode.com
     - +.meta.ai
+    - +.metaaiusercontent.com
     - +.metaaivm.com
     - +.midjourney.com
     - +.minimax.io
@@ -117,6 +135,7 @@ payload:
     - +.notebooklm.google
     - +.notebooklm.google.com
     - +.notegpt.io
+    - +.nousresearch.com
     - +.novelai.net
     - +.oaistatic.com
     - +.oaistatsig.com
@@ -126,6 +145,7 @@ payload:
     - +.opal.google.com
     - +.openai.com
     - +.openai.com.cdn.cloudflare.net
+    - +.openai.org
     - +.openart.ai
     - +.openclaw.ai
     - +.opencode.ai
@@ -152,6 +172,7 @@ payload:
     - +.trae.ai
     - +.tripo3d.ai
     - +.turn.livekit.cloud
+    - +.typesafe.ai
     - +.windsurf.build
     - +.windsurf.com
     - +.x.ai
@@ -163,6 +184,9 @@ payload:
     - alkalimakersuite-pa.clients6.google.com
     - antigravity-pa.googleapis.com
     - antigravity.googleapis.com
+    - appsgenaiserver-pa.clients.google.com
+    - appsgenaiserver-pa.clients6.google.com
+    - appsgenaiserver-pa.googleapis.com
     - browser-intake-datadoghq.com
     - cloudaicompanion.googleapis.com
     - cloudcode-pa.googleapis.com
@@ -174,9 +198,12 @@ payload:
     - daily-cloudcode-pa.googleapis.com
     - geminiweb-pa.clients.google.com
     - geminiweb-pa.clients6.google.com
+    - http-intake.logs.us5.datadoghq.com
     - notebooklm-pa.googleapis.com
     - notebooklm.googleapis.com
+    - o1158394.ingest.us.sentry.io
     - o33249.ingest.sentry.io
+    - o33249.ingest.us.sentry.io
     - openai.qualtrics.com
     - openaiapi-site.azureedge.net
     - openaiassets.blob.core.windows.net
@@ -185,6 +212,7 @@ payload:
     - openaicomproductionae4b.blob.core.windows.net
     - ppl-ai-file-upload.s3.amazonaws.com
     - pplx-res.cloudinary.com
+    - production-copilot-host-westus.webpubsub.azure.com
     - production-openaicom-storage.azureedge.net
     - servd-anthropic-website.b-cdn.net
     - webchannel-alkalimakersuite-pa.clients6.google.com

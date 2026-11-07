@@ -58,7 +58,10 @@
 +.adnet.sohu.com
 +.adping.qq.com
 +.adpm.app.qq.com
++.ads-api-o.api.leiniao.com
++.ads-api-t.my7v.com
 +.ads-api.duolingo.com
++.ads-o.res.leiniao.com
 +.ads-pixiv.net
 +.ads-twitter.com
 +.ads-union.jd.com
@@ -274,6 +277,7 @@
 +.g.mindbox.ru
 +.g3.letv.com
 +.gdt.qq.com
++.gdtimg.com
 +.gemini.yahoo.com
 +.gia.jd.com
 +.gmossp-sp.jp
@@ -333,6 +337,7 @@
 +.inte.sogou.com
 +.inte.sogoucdn.com
 +.isdspeed.qq.com
++.isms-o.api.my7v.com
 +.iwanad.baidu.com
 +.ja.gamersky.com
 +.ja1.gamersky.com
@@ -670,6 +675,7 @@ metrics.21-school.ru
 metrika.kontur.ru
 new-adv.ozon.ru
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 o4504926511693824.ingest.sentry.io
 openai.qualtrics.com
 p3-ad-sign.byteimg.com

@@ -38,7 +38,6 @@
 +.homepod.cn
 +.icloud-apple.cn
 +.icloud-content.com.cn
-+.icloud.cn
 +.icloud.com.cn
 +.icloud.net.cn
 +.icloudapple.cn
@@ -231,6 +230,7 @@ podcasts.itunes.apple.com
 probe.siri.apple.com
 prod-support.apple-support.akadns.net
 publicassets.cdn-apple.com
+radio.itunes.apple.com
 s.mzstatic.com
 s1.mzstatic.com
 s2.mzstatic.com
@@ -245,7 +245,9 @@ seed-swallow.siri.apple.com
 seed.siri.apple.com
 sequoia.apple.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
 sp.itunes.apple.com

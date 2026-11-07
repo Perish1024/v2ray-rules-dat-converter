@@ -120,6 +120,9 @@ payload:
     - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
     - DOMAIN,apps.mzstatic.com
     - DOMAIN,apps5.oingo.com
+    - DOMAIN,appsgenaiserver-pa.clients.google.com
+    - DOMAIN,appsgenaiserver-pa.clients6.google.com
+    - DOMAIN,appsgenaiserver-pa.googleapis.com
     - DOMAIN,apptrailers.itunes.apple.com
     - DOMAIN,avail.googleflights.net
     - DOMAIN,az764295.vo.msecnd.net
@@ -236,6 +239,8 @@ payload:
     - DOMAIN,d2anahhhmp1ffz.cloudfront.net
     - DOMAIN,daily-cloudcode-pa.googleapis.com
     - DOMAIN,dartsearch-cn.net
+    - DOMAIN,dc.applicationinsights.azure.com
+    - DOMAIN,dc.services.visualstudio.com
     - DOMAIN,dc1-cert.ksn.kaspersky-labs.com
     - DOMAIN,dc1-file.ksn.kaspersky-labs.com
     - DOMAIN,dc1-pp.ksn.kaspersky-labs.com
@@ -315,7 +320,6 @@ payload:
     - DOMAIN,firebaselogging.googleapis.com
     - DOMAIN,firebaseperusertopics-pa.googleapis.com
     - DOMAIN,firebaseremoteconfig.googleapis.com
-    - DOMAIN,flightsimulator.azureedge.net
     - DOMAIN,fontfiles.googleapis.com
     - DOMAIN,fonts.googleapis.com
     - DOMAIN,fonts.gstatic.com
@@ -440,6 +444,8 @@ payload:
     - DOMAIN,itunesconnect.apple.com
     - DOMAIN,js-cdn.music.apple.com
     - DOMAIN,km.support.apple.com
+    - DOMAIN,kp-config-smart-tv.akamaized.net
+    - DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
     - DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
     - DOMAIN,ksn-cinfo.geoksn.kaspersky.com
     - DOMAIN,ksn-crypto-info-geo.kaspersky-labs.com
@@ -467,6 +473,7 @@ payload:
     - DOMAIN,lex.download.prss.microsoft.com
     - DOMAIN,lexuat.download.prss.microsoft.com
     - DOMAIN,lgelectronics.122.2o7.net
+    - DOMAIN,live.applicationinsights.azure.com
     - DOMAIN,lm.licenses.adobe.com
     - DOMAIN,lmlicenses.wip4.adobe.com
     - DOMAIN,location.microsoft.com
@@ -578,6 +585,7 @@ payload:
     - DOMAIN,prod-support.apple-support.akadns.net
     - DOMAIN,prod.databe.floonet.goog
     - DOMAIN,prodforza.blob.core.windows.net
+    - DOMAIN,production-copilot-host-westus.webpubsub.azure.com
     - DOMAIN,productionresultssa0.blob.core.windows.net
     - DOMAIN,productionresultssa1.blob.core.windows.net
     - DOMAIN,productionresultssa10.blob.core.windows.net
@@ -609,6 +617,7 @@ payload:
     - DOMAIN,r0.mail.ru
     - DOMAIN,r0.mradx.net
     - DOMAIN,r1.mail.ru
+    - DOMAIN,radio.itunes.apple.com
     - DOMAIN,recaptcha-cn.net
     - DOMAIN,recaptcha.net
     - DOMAIN,redirector.bdn.dev
@@ -628,6 +637,7 @@ payload:
     - DOMAIN,rink.hockeyapp.net
     - DOMAIN,rs.mail.ru
     - DOMAIN,rsm.download.prss.microsoft.com
+    - DOMAIN,rt.services.visualstudio.com
     - DOMAIN,s.mzstatic.com
     - DOMAIN,s00.upd.kaspersky.com
     - DOMAIN,s01.upd.kaspersky.com
@@ -752,7 +762,9 @@ payload:
     - DOMAIN,sequoia.apple.com
     - DOMAIN,service.urchin.com
     - DOMAIN,sf-api-token-service.itunes.apple.com
+    - DOMAIN,sh-pod1-smp-device.apple.com
     - DOMAIN,sh-pod2-smp-device.apple.com
+    - DOMAIN,sh-pod3-smp-device.apple.com
     - DOMAIN,shazam-insights.cdn-apple.com
     - DOMAIN,shell.cdn.office.net
     - DOMAIN,smp-device-content.apple.com
@@ -1852,7 +1864,6 @@ payload:
     - DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
     - DOMAIN-SUFFIX,askfacebook.net
     - DOMAIN-SUFFIX,askfacebook.org
-    - DOMAIN-SUFFIX,asobostudio.com
     - DOMAIN-SUFFIX,asp-cc.com
     - DOMAIN-SUFFIX,asp.net
     - DOMAIN-SUFFIX,aspnetcdn.com
@@ -2490,8 +2501,16 @@ payload:
     - DOMAIN-SUFFIX,beddit.tv
     - DOMAIN-SUFFIX,beesbfl.ru
     - DOMAIN-SUFFIX,beescrm.ru
+    - DOMAIN-SUFFIX,beget.app
+    - DOMAIN-SUFFIX,beget.cloud
     - DOMAIN-SUFFIX,beget.com
+    - DOMAIN-SUFFIX,beget.de
+    - DOMAIN-SUFFIX,beget.email
+    - DOMAIN-SUFFIX,beget.hosting
+    - DOMAIN-SUFFIX,beget.pro
     - DOMAIN-SUFFIX,beget.ru
+    - DOMAIN-SUFFIX,beget.tech
+    - DOMAIN-SUFFIX,begetcdn.cloud
     - DOMAIN-SUFFIX,begin-trade.com
     - DOMAIN-SUFFIX,behance.net
     - DOMAIN-SUFFIX,behindthescreenz.com
@@ -2499,6 +2518,7 @@ payload:
     - DOMAIN-SUFFIX,berizaryad.ru
     - DOMAIN-SUFFIX,berkanawireless.com
     - DOMAIN-SUFFIX,beru.ru
+    - DOMAIN-SUFFIX,beserver.ru
     - DOMAIN-SUFFIX,best4bim.com
     - DOMAIN-SUFFIX,bestbeats4u.com
     - DOMAIN-SUFFIX,bestbim.com
@@ -2512,6 +2532,7 @@ payload:
     - DOMAIN-SUFFIX,betterbim.com
     - DOMAIN-SUFFIX,betterwithautodesk.com
     - DOMAIN-SUFFIX,beyondcore.com
+    - DOMAIN-SUFFIX,bget.ru
     - DOMAIN-SUFFIX,bhent.co.kr
     - DOMAIN-SUFFIX,biitii.com
     - DOMAIN-SUFFIX,bim-360.com
@@ -2540,6 +2561,7 @@ payload:
     - DOMAIN-SUFFIX,bingapistatistics.com
     - DOMAIN-SUFFIX,bingparachute.com
     - DOMAIN-SUFFIX,bingsandbox.com
+    - DOMAIN-SUFFIX,bingstatic.com
     - DOMAIN-SUFFIX,bingvisualsearch.com
     - DOMAIN-SUFFIX,bingworld.com
     - DOMAIN-SUFFIX,binoculus.com
@@ -3164,6 +3186,7 @@ payload:
     - DOMAIN-SUFFIX,dashlytrack.app
     - DOMAIN-SUFFIX,dashwood360.com
     - DOMAIN-SUFFIX,data.com
+    - DOMAIN-SUFFIX,data.microsoft.com
     - DOMAIN-SUFFIX,datacloudmy.com
     - DOMAIN-SUFFIX,dataframeworks.com
     - DOMAIN-SUFFIX,dataliberation.org
@@ -4063,7 +4086,6 @@ payload:
     - DOMAIN-SUFFIX,flickr
     - DOMAIN-SUFFIX,flickr.com
     - DOMAIN-SUFFIX,flickr.net
-    - DOMAIN-SUFFIX,flightsimulator.com
     - DOMAIN-SUFFIX,flipshare.com
     - DOMAIN-SUFFIX,flipwithsurface.com
     - DOMAIN-SUFFIX,flow.dev
@@ -4966,7 +4988,6 @@ payload:
     - DOMAIN-SUFFIX,icloud-isupport.com
     - DOMAIN-SUFFIX,icloud-sandbox.com
     - DOMAIN-SUFFIX,icloud.ch
-    - DOMAIN-SUFFIX,icloud.cn
     - DOMAIN-SUFFIX,icloud.com
     - DOMAIN-SUFFIX,icloud.com.cn
     - DOMAIN-SUFFIX,icloud.de
@@ -5101,6 +5122,7 @@ payload:
     - DOMAIN-SUFFIX,impermium.com
     - DOMAIN-SUFFIX,imstagram.com
     - DOMAIN-SUFFIX,imtagram.com
+    - DOMAIN-SUFFIX,in.applicationinsights.azure.com
     - DOMAIN-SUFFIX,inbox.ru
     - DOMAIN-SUFFIX,incentivetravelgifts.com
     - DOMAIN-SUFFIX,indiaipad.com
@@ -5971,6 +5993,7 @@ payload:
     - DOMAIN-SUFFIX,messengerdevelopers.com
     - DOMAIN-SUFFIX,meta.ai
     - DOMAIN-SUFFIX,meta.com
+    - DOMAIN-SUFFIX,metaaiusercontent.com
     - DOMAIN-SUFFIX,metaaivm.com
     - DOMAIN-SUFFIX,metabora.io
     - DOMAIN-SUFFIX,metacloud.com
@@ -6315,6 +6338,7 @@ payload:
     - DOMAIN-SUFFIX,msfteducation.ca
     - DOMAIN-SUFFIX,msftncsi.com
     - DOMAIN-SUFFIX,msftnet.org
+    - DOMAIN-SUFFIX,msftstatic.com
     - DOMAIN-SUFFIX,msgamesresearch.com
     - DOMAIN-SUFFIX,msgamestudios.com
     - DOMAIN-SUFFIX,mshome.net
@@ -6342,6 +6366,7 @@ payload:
     - DOMAIN-SUFFIX,msudalosti.com
     - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
     - DOMAIN-SUFFIX,mt.lv
+    - DOMAIN-SUFFIX,mts-link.ru
     - DOMAIN-SUFFIX,mts-ws.net
     - DOMAIN-SUFFIX,mts.ru
     - DOMAIN-SUFFIX,mtsbank.ru
@@ -6785,6 +6810,7 @@ payload:
     - DOMAIN-SUFFIX,playstation
     - DOMAIN-SUFFIX,playstation.com
     - DOMAIN-SUFFIX,playstation.net
+    - DOMAIN-SUFFIX,playstationnetwork.com
     - DOMAIN-SUFFIX,plex.com
     - DOMAIN-SUFFIX,plex.services
     - DOMAIN-SUFFIX,plex.tv
@@ -6873,6 +6899,7 @@ payload:
     - DOMAIN-SUFFIX,publishproxy.com
     - DOMAIN-SUFFIX,pullstring.net
     - DOMAIN-SUFFIX,pushgrow.io
+    - DOMAIN-SUFFIX,pv-cdn.net
     - DOMAIN-SUFFIX,pwabuilder.com
     - DOMAIN-SUFFIX,pxt.io
     - DOMAIN-SUFFIX,pyrobot.org
@@ -7106,6 +7133,7 @@ payload:
     - DOMAIN-SUFFIX,sc-static.net
     - DOMAIN-SUFFIX,scaleform.com
     - DOMAIN-SUFFIX,scartel.ru
+    - DOMAIN-SUFFIX,scea.com
     - DOMAIN-SUFFIX,scene7.com
     - DOMAIN-SUFFIX,schemer.com
     - DOMAIN-SUFFIX,scnshop.cc
@@ -7313,6 +7341,7 @@ payload:
     - DOMAIN-SUFFIX,sony.com.pa
     - DOMAIN-SUFFIX,sony.com.pe
     - DOMAIN-SUFFIX,sony.com.ph
+    - DOMAIN-SUFFIX,sony.com.py
     - DOMAIN-SUFFIX,sony.com.sg
     - DOMAIN-SUFFIX,sony.com.sv
     - DOMAIN-SUFFIX,sony.com.tr
@@ -7355,8 +7384,10 @@ payload:
     - DOMAIN-SUFFIX,sonydna.com
     - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
     - DOMAIN-SUFFIX,sonyglobalsolutions.jp
+    - DOMAIN-SUFFIX,sonyinteractive.com
     - DOMAIN-SUFFIX,sonykigyo.jp
     - DOMAIN-SUFFIX,sonylatvija.com
+    - DOMAIN-SUFFIX,sonymusic.com.hk
     - DOMAIN-SUFFIX,sonynetwork.co.jp
     - DOMAIN-SUFFIX,sonypcl.jp
     - DOMAIN-SUFFIX,sonypictures.com
@@ -7389,6 +7420,7 @@ payload:
     - DOMAIN-SUFFIX,sportsfacebook.com
     - DOMAIN-SUFFIX,sportstream.com
     - DOMAIN-SUFFIX,sprinklesapp.com
+    - DOMAIN-SUFFIX,sprut.io
     - DOMAIN-SUFFIX,sptvbroadcast.com
     - DOMAIN-SUFFIX,sqlserveronlinux.com
     - DOMAIN-SUFFIX,squ1.com
@@ -7510,6 +7542,7 @@ payload:
     - DOMAIN-SUFFIX,tele2.ru
     - DOMAIN-SUFFIX,telega.info
     - DOMAIN-SUFFIX,telega.me
+    - DOMAIN-SUFFIX,telemetry.microsoft.com
     - DOMAIN-SUFFIX,telerik.com
     - DOMAIN-SUFFIX,tellmewhygame.com
     - DOMAIN-SUFFIX,tenbin.ai
@@ -7567,6 +7600,8 @@ payload:
     - DOMAIN-SUFFIX,timelinestoryteller.com
     - DOMAIN-SUFFIX,timeweb.cloud
     - DOMAIN-SUFFIX,timeweb.com
+    - DOMAIN-SUFFIX,timeweb.tech
+    - DOMAIN-SUFFIX,timewebcloud.kz
     - DOMAIN-SUFFIX,tinkerboxapp.com
     - DOMAIN-SUFFIX,tinkercad.com
     - DOMAIN-SUFFIX,tinkerentertainment.com
@@ -8131,6 +8166,7 @@ payload:
     - DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
     - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
     - DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
+    - DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
     - DOMAIN-SUFFIX,xn--9kr7l.com
     - DOMAIN-SUFFIX,xn--9trs65b.com
     - DOMAIN-SUFFIX,xn--cckwcxetd

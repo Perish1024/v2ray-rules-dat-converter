@@ -65,6 +65,7 @@ payload:
     - +.aki-game.com
     - +.aki-game2.com
     - +.aligames.com
+    - +.amdgaming.com
     - +.amiibo.com
     - +.anthemgame.com
     - +.anthemthegame.com
@@ -78,7 +79,6 @@ payload:
     - +.artstation.com
     - +.artstationmedia.com
     - +.artstorm.com
-    - +.asobostudio.com
     - +.astral-vector.com
     - +.awayoutgame.com
     - +.ayudanintendo.com
@@ -145,6 +145,10 @@ payload:
     - +.capturingreality.com
     - +.cbjq.com
     - +.cdncl.net
+    - +.cdpred.services
+    - +.cdprojekt.com
+    - +.cdprojekt.red
+    - +.cdprojektred.com
     - +.cgyouxi.com
     - +.championshipseriesleague.com
     - +.changyou.com
@@ -172,6 +176,7 @@ payload:
     - +.cubicodyssey.game
     - +.curseforge.com
     - +.cy.com
+    - +.cyberpunk.net
     - +.cygames.co.jp
     - +.cygames.jp
     - +.daoc.net
@@ -268,7 +273,6 @@ payload:
     - +.fireemblemawakening.com
     - +.firesidegatherings.com
     - +.fitgirl-repacks.site
-    - +.flightsimulator.com
     - +.flipnotestudio.com
     - +.forevernine.com
     - +.forgecdn.net
@@ -287,6 +291,7 @@ payload:
     - +.gaijinent.com
     - +.game-repack.site
     - +.gameabc.com
+    - +.gamebanana.com
     - +.gamebonfire.com
     - +.gameitop.com
     - +.gameloop.com
@@ -312,7 +317,6 @@ payload:
     - +.gclouddolphin.com
     - +.gcloudsdk.com
     - +.gcloudsvcs.com
-    - +.gdtimg.com
     - +.genshinimpact.com
     - +.ghostgames.com
     - +.giratina.com
@@ -367,7 +371,6 @@ payload:
     - +.ihappystudio.com
     - +.ihykb.com
     - +.img4399.com
-    - +.in.th
     - +.industrialtoys.com
     - +.infinityward.com
     - +.insights-collector.gog.com
@@ -425,6 +428,9 @@ payload:
     - +.legendofzelda.cn
     - +.legendofzelda.com.cn
     - +.leyuansu.com
+    - +.limbuscompany.global
+    - +.limbuscompanyapi.com
+    - +.limbuscompanycdn.org
     - +.lingxigames.com
     - +.log-upload-os.hoyoverse.com
     - +.log-upload.mihoyo.com
@@ -616,6 +622,7 @@ payload:
     - +.playartifact.com
     - +.playbattlegrounds.com
     - +.playcool.com
+    - +.playgwent.com
     - +.playhearthstone.com
     - +.playnintendo.com
     - +.playoverwatch.com
@@ -623,6 +630,7 @@ payload:
     - +.playstation
     - +.playstation.com
     - +.playstation.net
+    - +.playstationnetwork.com
     - +.playvalorant.com
     - +.playwarcraft3.com
     - +.pogo.com
@@ -654,6 +662,7 @@ payload:
     - +.priconne-redive.jp
     - +.prismlauncher.org
     - +.projectapex.com
+    - +.projectmoon.studio
     - +.protondb.com
     - +.proximabeta.com
     - +.pubg.com
@@ -670,6 +679,7 @@ payload:
     - +.quiltmc.org
     - +.quixel.com
     - +.quixel.se
+    - +.r2modman.com
     - +.radgametools.com
     - +.ravensoftware.com
     - +.rayark.download
@@ -773,6 +783,7 @@ payload:
     - +.simcity.com
     - +.skate2.com
     - +.sketchfab.com
+    - +.skinswap.com
     - +.skydweller.cn
     - +.skylanders.com
     - +.sl916.com
@@ -824,6 +835,8 @@ payload:
     - +.steamdeck.com
     - +.steamgames.com
     - +.steaminventoryhelper.com
+    - +.steamos.cloud
+    - +.steampeek.hu
     - +.steampowered.com
     - +.steampowered.com.8686c.com
     - +.steamserver.net
@@ -884,7 +897,10 @@ payload:
     - +.thesims3.com
     - +.thesims4.com
     - +.thesimssocial.com
+    - +.thewitcher.com
     - +.thewonderful101.com
+    - +.thunderstore.io
+    - +.thunderstore.org
     - +.tiancity.com
     - +.tiancitycdn.com
     - +.tiberiumalliances.com
@@ -966,10 +982,12 @@ payload:
     - +.worldoftanks.eu
     - +.worldofwarcraft.com
     - +.worldofwarplanes.com
+    - +.worldofwarships.asia
     - +.worldofwarships.com
     - +.worldseriesofwarzone.com
     - +.wotblitz.com
     - +.wowsblitz.com
+    - +.wplace.live
     - +.wtmobile.com
     - +.wutheringwaves.cn
     - +.xbox
@@ -1062,15 +1080,17 @@ payload:
     - cdngarenanow-a.akamaihd.net
     - cloudsync-prod.s3.amazonaws.com
     - d1unuk07s6td74.cloudfront.net
+    - d348twzf7a8p5.cloudfront.net
     - datarouter.apps.netherrealm.com
+    - devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
     - dlgarenanow-a.akamaihd.net
     - dlmobilegarena-a.akamaihd.net
+    - doy2mn9upadnk.cloudfront.net
     - ea.tt.omtrdc.net
     - eaassets-a.akamaihd.net
     - end-api.shallow.ink
     - end.shallow.ink
     - f3b7q2p3.ssl.hwcdn.net
-    - flightsimulator.azureedge.net
     - gamedownloads-rockstargames-com.akamaized.net
     - gog-cdn-lumen.secure2.footprint.net
     - gog-cdn.akamaized.net

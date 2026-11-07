@@ -198,7 +198,6 @@
 +.hpstore.cn
 +.icloud-apple.cn
 +.icloud-content.com.cn
-+.icloud.cn
 +.icloud.com.cn
 +.icloud.net.cn
 +.icloudapple.cn
@@ -702,6 +701,7 @@ prod.databe.floonet.goog
 publicassets.cdn-apple.com
 qiao-cn.com
 qpx.googleflights.net
+radio.itunes.apple.com
 recaptcha-cn.net
 recaptcha.net
 redirector.bdn.dev
@@ -755,7 +755,9 @@ seed.siri.apple.com
 sequoia.apple.com
 service.urchin.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
 smp-device-content.apple.com

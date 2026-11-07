@@ -15,7 +15,6 @@ payload:
     - +.gclouddolphin.com
     - +.gcloudsdk.com
     - +.gcloudsvcs.com
-    - +.gdtimg.com
     - +.goto-game.com
     - +.goto-game.mobi
     - +.goto-game.net.cn
@@ -29,8 +28,8 @@ payload:
     - +.hkgcloudcs.com
     - +.ihappystudio.cn
     - +.ihappystudio.com
-    - +.in.th
     - +.labycore.cn
+    - +.levelinfinite.com
     - +.ludosuperstar.cn
     - +.ludoworld.net
     - +.mahjongai.net
@@ -45,6 +44,7 @@ payload:
     - +.nagcloudcs.com
     - +.nextstudios.com
     - +.nextworkshop.net
+    - +.nikke-en.com
     - +.proximabeta.com
     - +.pubghelper.com
     - +.pubgno1.cn
@@ -67,6 +67,7 @@ payload:
     - +.syxlgame.com
     - +.tcfmglobal.com
     - +.tencent-gcloud.com
+    - +.tencentgames.com
     - +.tencentstart.com
     - +.texasholdemcup.cn
     - +.texasholdemcup.com

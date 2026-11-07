@@ -996,7 +996,6 @@
 +.icloud-isupport.com
 +.icloud-sandbox.com
 +.icloud.ch
-+.icloud.cn
 +.icloud.com
 +.icloud.com.cn
 +.icloud.de
@@ -1724,6 +1723,7 @@ probe.siri.apple.com
 prod-support.apple-support.akadns.net
 publicassets.cdn-apple.com
 push-apple.com.akadns.net
+radio.itunes.apple.com
 s.mzstatic.com
 s1.mzstatic.com
 s2.mzstatic.com
@@ -1738,7 +1738,9 @@ seed-swallow.siri.apple.com
 seed.siri.apple.com
 sequoia.apple.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
 sp.itunes.apple.com
